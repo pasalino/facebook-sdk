@@ -38,3 +38,8 @@ Documentation is available at https://facebook-sdk.readthedocs.io/en/latest/.
 Have a question? Need help? Visit the library's `Google Group`_.
 
 .. _Google Group: https://groups.google.com/group/pythonforfacebook
+
+
+Pasalino
+====================
+pasalino_test in examples folder get friendlist that installed the facebook app
